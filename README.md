@@ -1,1 +1,2 @@
 # maxvalera
+класс
